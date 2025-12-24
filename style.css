@@ -1,0 +1,9 @@
+:root {
+    --primary-dark: #0a2540;     /* آبی تیره تکنولوژیک */
+    --primary-light: #00b4d8;    /* فیروزه‌ای مدرن */
+    --accent: #90dbf4;           /* هایلایت */
+    --text-dark: #1f2933;
+    --text-light: #ffffff;
+    --bg-light: #f5f7fa;
+    --border-light: #e1e5eb;
+}
